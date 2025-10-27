@@ -5,7 +5,8 @@ function App() {
   // JSX
   return (
     <div className='App'>
-      <h1>Create by Trương Quang Lâm</h1>
+      <h1>Create by Trương Quang Lâm </h1>
+      <h1>Trương Diễm Hạnh</h1>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
